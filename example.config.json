@@ -1,8 +1,8 @@
 {
-    "mongodbUrl": "mongodb://username:password@localhost/database",
+    "mongodbUrl": "mongodb://dbuser:asd757959@ds013216.mlab.com:13216/andriod-gcm-database-db",
 
     "gcm": {
-        "apiKey": "YOUR_API_KEY_HERE"
+        "AIzaSyCUS0Q9enyeX7WwMFWY5FCaPo-NSf5In9M"
     },
 
     "apn": {
